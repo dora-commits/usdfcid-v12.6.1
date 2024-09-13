@@ -1,6 +1,6 @@
 # Using synthetic sampling techniques for deep features in classification of imbalanced datasets
 
-**<span style="color: red;">Please contact me via email to request the source code for this project.</span>**
+<span style="color: red;">Please contact me via email to request the source code for this project.</span>
 
 ![alt text](assets/images/full-project.png)
 <br>
